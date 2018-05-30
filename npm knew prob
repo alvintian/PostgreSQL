@@ -1,0 +1,3 @@
+npm i -g knex
+ls node_modules/.bin/
+ which knex
